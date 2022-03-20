@@ -64,10 +64,10 @@ npm run lint
 ```
 
 ## Author
-
+<!-- 
 👤 **blesstosam**
 
-* Github: [@blesstosam](https://github.com/blesstosam)
+* Github: [@blesstosam](https://github.com/blesstosam) -->
 
 ## Show your support
 
